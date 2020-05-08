@@ -1,0 +1,140 @@
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+.svord {
+    width: 800px;
+    height: 800px;
+    margin: 50px auto;
+}
+.lever01 {
+    display: flex;
+    justify-content: flex-end;
+}
+.lever01_01 {
+    width: 150px;
+    height: 50px;
+    background-color: rgb(2, 79, 99);
+}
+.lever02 {
+    display: flex;
+    justify-content: flex-end;
+}
+.lever02-01 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(2, 79, 99);
+}
+.lever02-02 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(103, 219, 248);
+}
+.lever02-03 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(44, 173, 206);
+}
+.lever03 {
+    display: flex;
+    justify-content: flex-end;
+}
+.lever04 {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 50px;
+}
+.lever05 {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 100px;
+}
+.lever06 {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 150px;
+}
+.lever07 {
+    display: flex;
+    justify-content: space-between;
+    margin:0 200px 0 100px;
+}
+.black {
+    width: 50px;
+    height: 50px;
+    background-color: #000;
+}
+.left {
+    display: flex;
+}
+.right {
+    display: flex;
+}
+.lever08 {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 250px 0 100px;
+}
+.lever08-01 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(2, 97, 121);
+}
+.lever09 {
+    display: flex;
+    margin-left: 150px;
+}
+.lever09-01 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(2, 124, 155);
+}
+.lever10 {
+   display: flex;
+   margin-left: 150px;
+}
+.lever11 {
+   display: flex;
+   margin-left: 200px;
+}
+.lever12 {
+   display: flex;
+   margin-left: 150px;
+}
+.brown {
+     width: 50px;
+     height: 50px;
+     background-color: rgb(99, 18, 18);
+}
+.brown01 {
+     width: 50px;
+     height: 50px;
+     background-color: rgb(126, 37, 37);
+}
+.burlywood {
+     width: 50px;
+     height: 50px;
+     background-color: burlywood;
+}
+.brown03 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(78, 23, 23);
+}
+.lever13{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 300px 0 100px;
+}
+.lever14{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 300px 0 0;
+}
+.lever15 {
+    display: flex;
+}
+.lever16 {
+    display: flex;
+}
